@@ -1,0 +1,11 @@
+astroid==3.0.1
+dill==0.3.7
+envparse==0.2.0
+isort==5.12.0
+loguru==0.7.2
+mccabe==0.7.0
+platformdirs==4.0.0
+pylint==3.0.2
+tomli==2.0.1
+tomlkit==0.12.3
+typing_extensions==4.8.0
